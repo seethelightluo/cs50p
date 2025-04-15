@@ -1,0 +1,6 @@
+{
+    "gitdoc.enabled": true,
+    "python.analysis.extraPaths": [
+        "./week2"
+    ]
+}
